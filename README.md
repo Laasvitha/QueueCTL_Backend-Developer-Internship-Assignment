@@ -708,24 +708,6 @@ See `requirements.txt` for details.
 
 MIT License - See LICENSE file for details.
 
----
-
-## Author
-
-Your Name  
-Email: your.email@example.com  
-GitHub: @YOUR_USERNAME
-
----
-
-## Support & Contributing
-
-For issues or questions:
-1. Create an issue on GitHub
-2. Check troubleshooting section above
-3. Review demo video for usage examples
-
-Contributions welcome! Please create a pull request with improvements.
 
 ---
 
@@ -739,5 +721,3 @@ Contributions welcome! Please create a pull request with improvements.
 ---
 
 **Last Updated:** November 9, 2025  
-**Version:** 1.0.0  
-**Status:** Production Ready ✅
