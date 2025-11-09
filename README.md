@@ -18,6 +18,21 @@ QueueCTL is a robust, locally-deployable job queue system designed to manage bac
 
 ---
 
+## Demo Video
+
+A comprehensive demo video showing all features is available here: **[[Link to Demo Video](https://1drv.ms/v/c/5d51ac736bbdb285/Edxj9-813MFCuwmID8I0WXsBdyPAsxt1k-POSgL4tHUpLg?e=2Ovr0A)]**
+
+The demo covers:
+- Setup and installation
+- Basic job execution
+- Multiple workers in parallel
+- Retry with exponential backoff
+- Dead Letter Queue operations
+- Job persistence
+- Configuration management
+
+---
+
 ## Installation & Setup
 
 ### Prerequisites
@@ -663,20 +678,6 @@ Should show: `config  dlq_jobs  jobs`
 2. Check if jobs exist: `queuectl status`
 3. Check for errors in worker output terminal
 
----
-
-## Demo Video
-
-A comprehensive demo video showing all features is available here: **[Link to Google Drive Demo Video]**
-
-The demo covers:
-- Setup and installation
-- Basic job execution
-- Multiple workers in parallel
-- Retry with exponential backoff
-- Dead Letter Queue operations
-- Job persistence
-- Configuration management
 
 ---
 
@@ -708,16 +709,4 @@ See `requirements.txt` for details.
 
 MIT License - See LICENSE file for details.
 
-
 ---
-
-## Acknowledgments
-
-- Built as part of Backend Developer Internship Assignment
-- Uses Python Click framework for CLI
-- SQLite for persistent storage
-- Inspired by production job queue systems (RabbitMQ, Celery)
-
----
-
-**Last Updated:** November 9, 2025  
